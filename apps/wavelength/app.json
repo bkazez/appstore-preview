@@ -1,0 +1,30 @@
+{
+  "name": "Wavelength: Sleep & Jet Lag",
+  "subtitle": "Circadian rhythm light meter",
+  "developer": "Impulse Arc",
+  "icon": "assets/icon.png",
+  "facts": [
+    { "k": "No Ratings", "v": "★ ★ ★ ★ ☆", "sub": "New app" },
+    { "k": "Age", "v": "4<small>+</small>", "sub": "Years Old" },
+    { "k": "Category", "v": "<span style=\"font-size:18px\">♥</span>", "sub": "Health & Fitness" },
+    { "k": "Developer", "v": "<span style=\"font-size:13px;line-height:1.3;display:inline-block;margin-top:6px\">Impulse&nbsp;Arc</span>" }
+  ],
+  "screenshots": [
+    { "src": "assets/ss1.png", "caption": "Jet lag: land already on local time", "alt": "Jet lag: this light is shifting your sleep earlier" },
+    { "src": "assets/ss2.png", "caption": "Better sleep: know exactly when to dim", "alt": "Better sleep: keep it dim, screen near-black at night" },
+    { "src": "assets/ss3.png", "caption": "Daytime: get the daylight your body needs", "alt": "Daytime: this light is strengthening your circadian rhythm" },
+    { "src": "assets/ss4.png", "caption": "Shift work: hold your rhythm through nights", "alt": "Shift work: this light is shifting your sleep later" }
+  ],
+  "description": "Better sleep and easier jet lag start with light. Wavelength reads the light around you and coaches you on exactly when to seek it and when to avoid it, so your body clock lands where you want it. Better-aligned sleep is also linked in research to steadier mood and focus.\n\nIt measures melanopic light, the specific wavelengths that regulate your sleep-wake cycle. Unlike a standard light meter, it tells you whether your current lighting is helping or hurting your sleep goals.\n\nHOW IT WORKS\n\nPoint your iPhone camera at the light around you. Wavelength analyzes the color temperature and intensity to estimate melanopic lux, the measure of light that drives your circadian system. You get an immediate, color-coded reading with a plain-language recommendation.\n\nSMART RECOMMENDATIONS\n\nWavelength doesn't just show numbers. It factors in:\n- Your current and target sleep schedule\n- The time of day and your circadian phase\n- Whether you're trying to shift your sleep earlier or later\n- The phase response curve from circadian research\n\nBased on all of this, it tells you whether to seek or avoid light right now, and when the next window opens.\n\nDAILY NOTIFICATIONS\n\nSet your current bedtime and your goal bedtime. Wavelength schedules daily reminders:\n- When to start dimming lights before bed\n- When bright light exposure will shift your sleep in the right direction\n- When to avoid light that would work against your goals\n\nBUILT ON SCIENCE\n\nWavelength implements recommendations from Brown et al. (2022) in PLOS Biology, the expert consensus on indoor light for healthy sleep:\n- Daytime: 250+ melanopic lux for alertness\n- Evening: Under 10 melanopic lux before bed\n- Sleep: Under 1 melanopic lux\n\nPhase and amplitude response curves are based on Hannay et al. (2019) in the Journal of Biological Rhythms.\n\nDESIGNED FOR\n\n- Anyone who wants to sleep better\n- Travelers managing jet lag across time zones\n- Shift workers with irregular schedules\n- Athletes optimizing recovery\n- People exploring light therapy for sleep\n\nWHAT YOU'LL NEED\n\n- iPhone with a camera\n- That's it. No accessories, no special hardware.\n\nNote: Camera-based light measurement is approximate (not a replacement for a laboratory spectrometer) but well-suited for the relative comparisons that matter for circadian health.",
+  "info": [
+    { "k": "Seller", "v": "Impulse Arc LLC" },
+    { "k": "Size", "v": "2.4 MB" },
+    { "k": "Category", "v": "Health & Fitness" },
+    { "k": "Compatibility", "v": "iPhone · iOS 17.0 or later" },
+    { "k": "Languages", "v": "English" },
+    { "k": "Age Rating", "v": "4+" },
+    { "k": "In-App Purchases", "v": "Annual $29.99 · Monthly $4.99" },
+    { "k": "Privacy", "v": "Data Not Collected" }
+  ],
+  "note": "<strong>This is a preview, not the live App Store listing.</strong><br>Screenshots are the exact 6.7\" PNGs from the app build, shown bare as Apple displays them. The second frame is the app's night mode: the whole UI fades to near-black before bed."
+}
